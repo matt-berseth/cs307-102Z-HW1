@@ -1,0 +1,9 @@
+{
+   "[python]": {
+      "editor.formatOnPaste": false,
+      "editor.rulers": [
+         88
+      ],
+   },
+   "sarif-viewer.connectToGithubCodeScanning": "off",
+}
